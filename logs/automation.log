@@ -1,0 +1,5 @@
+15:46:53.104 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\hp\Automation\seleniumwedriver\PracticeOpencart121\master.xml
+
+15:46:58.087 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:15)oggger - ***** Starting TC002 LoginTest *****
+15:47:03.538 [main] INFO  testCases.TC002_LoginTest.verify_login(TC002_LoginTest.java:39)oggger - ***** Finish TC002 LoginTest *****
